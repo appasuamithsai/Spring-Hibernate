@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7d66d54-df90-4e4b-b1cf-fe6ac2cfba77" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/spring-hibernate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/.idea/sonarlint/issuestore/0/f/0f1271fff6756c53b768320929bf04121965920c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/.idea/sonarlint/issuestore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/.idea/sonarlint/issuestore/3/8/385ae283ddf3097872ff4b09fdd03292dfd12fcc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/.idea/sonarlint/issuestore/5/7/57c84864c5636fda0e1321d500f5c85c71e23d8b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/.idea/sonarlint/issuestore/7/6/7634a35692170e52abcd43ce6305804733b4e73c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/.idea/sonarlint/issuestore/8/5/85969b71345d4ed70248478583cd775cbe9f0c15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/.idea/sonarlint/issuestore/8/a/8a14c9e93fadc18fefe2b2b4717c120515b7cc65" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/.idea/sonarlint/issuestore/9/7/97502623ccfb44962a8ef063b9f6d89ff8c8fe90" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/.idea/sonarlint/issuestore/d/b/dbc9ea7365bbeeaf2d3c32eaac3b4aadd9df1656" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/.idea/sonarlint/issuestore/e/8/e86b0ac582c55acddc49585cfc0c3e07658e7794" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/.idea/sonarlint/issuestore/e/9/e9028474beb0e1604eba660b31c170615d5daed1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/.idea/sonarlint/issuestore/f/b/fb0844bc5118f9d7734faf95c0e47654633d41be" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/.idea/libraries/spring_core_5_3_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/.idea/sonarlint/issuestore/1/c/1c079b753624c788ea9b957b5af386ac96a09349" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/.idea/sonarlint/issuestore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/.idea/sonarlint/issuestore/2/f/2f23870156daaa119a436fba174dbe7e0f7573ff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/.idea/sonarlint/issuestore/a/b/ab2fe1dd1b46d466792e6474e047f98df945add2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/.idea/sonarlint/issuestore/c/a/ca62a31754f6e1701d1e1b882ae9058400550b71" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/.idea/sonarlint/issuestore/f/5/f558f585118ef9a052c5d85e51a4b2dfefc99f33" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/src/main/java/com/amith/AddController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/src/main/java/com/amith/AmithConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/src/main/java/com/amith/MyWebInitalizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/src/main/java/com/amith/service/AddService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/src/main/webapp/WEB-INF/amith-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/src/main/webapp/WEB-INF/lib/spring-core-5.3.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/src/main/webapp/display.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/target/classes/com/amith/AddController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/target/classes/com/amith/AmithConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/target/classes/com/amith/MyWebInitalizer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMVCDemo/target/classes/com/amith/service/AddService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvcjava/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvcjava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvcjava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvcjava/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvcjava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvcjava/springmvcjava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvcjava/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvcjava/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringDemo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringDemo/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringDemo/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/SpringDemo/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringDemo/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="26dpsTN87hshRfV9qm189KOvOjA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7d66d54-df90-4e4b-b1cf-fe6ac2cfba77" name="Changes" comment="" />
+      <created>1647763528446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647763528446</updated>
+    </task>
+    <servers />
+  </component>
+</project>
