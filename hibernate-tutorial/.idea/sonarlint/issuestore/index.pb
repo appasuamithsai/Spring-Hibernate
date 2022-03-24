@@ -1,0 +1,19 @@
+
+P
+ src/com/amith/jdbc/TestJdbc.java,2/0/2018c76d79e6c2dcc312f61030e20fba5fecb446
+E
+src/hibernate.cfg.xml,5/2/524fbabb9c34b348becff5425aeeaced8e15058f
+`
+0src/com/amith/hibernate/demo/entity/Student.java,9/c/9c668aa35279935fdb833d4e271e95e3e40487f6
+`
+0src/com/amith/hibernate/demo/PrimaryKeyDemo.java,0/2/02d5e4d932748bdd92e55d2e84990f0e8684325c
+a
+1src/com/amith/hibernate/demo/ReadStudentDemo.java,e/3/e3bc91fad6c0cea7813e0052a8a353384e176f4b
+b
+2src/com/amith/hibernate/demo/QueryStudentDemo.java,3/8/3874dd01b1323dae9c7acda1a27fb2b34b5cb65b
+c
+3src/com/amith/hibernate/demo/UpdateStudentDemo.java,f/2/f2050424e3a1a31f1b1d9319df49bc15c2408648
+c
+3src/com/amith/hibernate/demo/CreateStudentDemo.java,c/e/cec95985e003c5b1e1513f595756f092cc9b1fe0
+c
+3src/com/amith/hibernate/demo/DeleteStudentDemo.java,2/1/21258ebc6ca5fa20b96d4e182fffadc17daf3bb6
