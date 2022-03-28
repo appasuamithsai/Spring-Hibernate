@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2582aed6-0bd0-43be-8cab-8a297e27b42b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/amith/hibernate/demo/DeleteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/amith/hibernate/demo/entity/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/amith/hibernate/demo/entity/InstructorDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/.idea/libraries/antlr_2_7_71.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/hibernate-tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/lib/classmate-1.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/lib/hibernate-commons-annotations-5.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/lib/hibernate-core-5.2.11.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/lib/javassist-3.20.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/lib/javax.annotation-api-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/lib/jboss-logging-3.3.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/lib/jta-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/lib/lucene-core-5.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/lib/lucene-queryparser-5.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/lib/mysql-connector-java-8.0.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/lib/xml-apis-1.3.03.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/out/production/hibernate-tutorial/com/amith/hibernate/demo/CreateDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/out/production/hibernate-tutorial/com/amith/hibernate/demo/DeleteDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/out/production/hibernate-tutorial/com/amith/hibernate/demo/entity/Instructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/out/production/hibernate-tutorial/com/amith/hibernate/demo/entity/InstructorDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/out/production/hibernate-tutorial/com/amith/hibernate/demo/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/out/production/hibernate-tutorial/com/amith/jdbc/TestJdbc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/out/production/hibernate-tutorial/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/com/amith/hibernate/demo/CreateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/com/amith/hibernate/demo/DeleteInstructorDetailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/com/amith/hibernate/demo/GetInstructorDetailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/com/amith/hibernate/demo/entity/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/com/amith/hibernate/demo/entity/InstructorDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/com/amith/hibernate/demo/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/com/amith/jdbc/TestJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/libraries/antlr_2_7_71.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/sonarlint/issuestore/0/f/0fdec001eb39670faee386447ab8ba041cb52d4a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/sonarlint/issuestore/1/0/102b7aea25126b1fca8144c956c1986a0902c945" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/sonarlint/issuestore/2/0/2018c76d79e6c2dcc312f61030e20fba5fecb446" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/sonarlint/issuestore/2/4/24a6f1a7744dd4ffd52d047fbcbbc3f9c9668dcd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/sonarlint/issuestore/4/4/444cf637655b0905c015c9a33eceb96e4eefc9eb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/sonarlint/issuestore/5/1/511050b2d1998071a2497215745a3162d1d3973e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/sonarlint/issuestore/5/2/524fbabb9c34b348becff5425aeeaced8e15058f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/sonarlint/issuestore/5/9/592acfce771ab8888024d3a38e731e59ca49ea21" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/sonarlint/issuestore/7/a/7ad33608863761c0021ee603a10bc5925e4c1428" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/sonarlint/issuestore/7/b/7b08f8dbe4d150c41a1795ab2fcdc4084a13ba01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/sonarlint/issuestore/9/c/9c668aa35279935fdb833d4e271e95e3e40487f6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/sonarlint/issuestore/9/e/9eb2a2a502e5c4521935b17969b84961be72d3f3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/sonarlint/issuestore/b/b/bbd43daadcb0002bdf5a0eab2ac3e85639cea9d4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/sonarlint/issuestore/e/b/eb66c58ba798db1ffcb95f8005be2d1a8bc09b47" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/hibernate-tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/lib/classmate-1.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/lib/hibernate-commons-annotations-5.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/lib/hibernate-core-5.2.11.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/lib/javassist-3.20.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/lib/javax.annotation-api-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/lib/jboss-logging-3.3.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/lib/jta-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/lib/lucene-core-5.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/lib/lucene-queryparser-5.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/lib/mysql-connector-java-8.0.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/lib/xml-apis-1.3.03.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/out/production/hibernate-tutorial/com/amith/hibernate/demo/CreateDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/out/production/hibernate-tutorial/com/amith/hibernate/demo/DeleteDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/out/production/hibernate-tutorial/com/amith/hibernate/demo/DeleteInstructorDetailDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/out/production/hibernate-tutorial/com/amith/hibernate/demo/GetInstructorDetailDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/out/production/hibernate-tutorial/com/amith/hibernate/demo/entity/Instructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/out/production/hibernate-tutorial/com/amith/hibernate/demo/entity/InstructorDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/out/production/hibernate-tutorial/com/amith/hibernate/demo/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/out/production/hibernate-tutorial/com/amith/jdbc/TestJdbc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/out/production/hibernate-tutorial/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/amith/hibernate/demo/CreateCoursesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/amith/hibernate/demo/CreateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/amith/hibernate/demo/CreateInstructorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/amith/hibernate/demo/DeleteCourseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/amith/hibernate/demo/DeleteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/amith/hibernate/demo/DeleteInstructorDetailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/amith/hibernate/demo/GetInstructorCoursesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/amith/hibernate/demo/GetInstructorDetailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/amith/hibernate/demo/entity/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/amith/hibernate/demo/entity/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/amith/hibernate/demo/entity/InstructorDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/amith/hibernate/demo/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/amith/jdbc/TestJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/libraries/antlr_2_7_71.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/sonarlint/issuestore/0/f/0fdec001eb39670faee386447ab8ba041cb52d4a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/sonarlint/issuestore/1/0/102b7aea25126b1fca8144c956c1986a0902c945" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/sonarlint/issuestore/2/0/2018c76d79e6c2dcc312f61030e20fba5fecb446" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/sonarlint/issuestore/2/4/24a6f1a7744dd4ffd52d047fbcbbc3f9c9668dcd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/sonarlint/issuestore/4/4/444cf637655b0905c015c9a33eceb96e4eefc9eb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/sonarlint/issuestore/5/1/511050b2d1998071a2497215745a3162d1d3973e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/sonarlint/issuestore/5/2/524fbabb9c34b348becff5425aeeaced8e15058f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/sonarlint/issuestore/5/9/592acfce771ab8888024d3a38e731e59ca49ea21" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/sonarlint/issuestore/7/a/7ad33608863761c0021ee603a10bc5925e4c1428" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/sonarlint/issuestore/7/b/7b08f8dbe4d150c41a1795ab2fcdc4084a13ba01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/sonarlint/issuestore/9/c/9c668aa35279935fdb833d4e271e95e3e40487f6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/sonarlint/issuestore/9/e/9eb2a2a502e5c4521935b17969b84961be72d3f3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/sonarlint/issuestore/b/b/bbd43daadcb0002bdf5a0eab2ac3e85639cea9d4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/sonarlint/issuestore/e/b/eb66c58ba798db1ffcb95f8005be2d1a8bc09b47" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/hibernate-tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/lib/classmate-1.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/lib/hibernate-commons-annotations-5.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/lib/hibernate-core-5.2.11.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/lib/javassist-3.20.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/lib/javax.annotation-api-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/lib/jboss-logging-3.3.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/lib/jta-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/lib/lucene-core-5.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/lib/lucene-queryparser-5.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/lib/mysql-connector-java-8.0.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/lib/xml-apis-1.3.03.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/out/production/hibernate-tutorial/com/amith/hibernate/demo/CreateCoursesDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/out/production/hibernate-tutorial/com/amith/hibernate/demo/CreateDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/out/production/hibernate-tutorial/com/amith/hibernate/demo/CreateInstructorDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/out/production/hibernate-tutorial/com/amith/hibernate/demo/DeleteCourseDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/out/production/hibernate-tutorial/com/amith/hibernate/demo/DeleteDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/out/production/hibernate-tutorial/com/amith/hibernate/demo/DeleteInstructorDetailDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/out/production/hibernate-tutorial/com/amith/hibernate/demo/GetInstructorCoursesDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/out/production/hibernate-tutorial/com/amith/hibernate/demo/GetInstructorDetailDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/out/production/hibernate-tutorial/com/amith/hibernate/demo/entity/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/out/production/hibernate-tutorial/com/amith/hibernate/demo/entity/Instructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/out/production/hibernate-tutorial/com/amith/hibernate/demo/entity/InstructorDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/out/production/hibernate-tutorial/com/amith/hibernate/demo/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/out/production/hibernate-tutorial/com/amith/jdbc/TestJdbc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/out/production/hibernate-tutorial/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/amith/hibernate/demo/CreateCourseAndReviewDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/amith/hibernate/demo/CreateCoursesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/amith/hibernate/demo/CreateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/amith/hibernate/demo/CreateInstructorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/amith/hibernate/demo/DeleteCourseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/amith/hibernate/demo/DeleteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/amith/hibernate/demo/DeleteInstructorDetailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/amith/hibernate/demo/GetCourseAndReviewDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/amith/hibernate/demo/GetInstructorCoursesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/amith/hibernate/demo/GetInstructorDetailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/amith/hibernate/demo/entity/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/amith/hibernate/demo/entity/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/amith/hibernate/demo/entity/InstructorDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/amith/hibernate/demo/entity/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/amith/hibernate/demo/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/amith/jdbc/TestJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.idea/sonarlint/issuestore/1/e/1e29ce3d7d393189d11a3978abf040defb015a74" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.idea/sonarlint/issuestore/2/7/2718481e2d403e8ae1b82852482ba8d216a3f9e4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.idea/sonarlint/issuestore/4/4/444cf637655b0905c015c9a33eceb96e4eefc9eb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.idea/sonarlint/issuestore/5/2/524fbabb9c34b348becff5425aeeaced8e15058f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.idea/sonarlint/issuestore/5/b/5bad4ce940f012c16a9ceb5795e4f081a6214986" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.idea/sonarlint/issuestore/9/2/9229b25a345944aa9d1d12929f5c881e7cd1ceba" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.idea/sonarlint/issuestore/9/c/9c668aa35279935fdb833d4e271e95e3e40487f6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/hibernate-tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/amith/hibernate/demo/CreateCourseAndStudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/amith/hibernate/demo/GetCourseForAmithDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/.idea/libraries/antlr_2_7_71.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/hibernate-tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/lib/classmate-1.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/lib/hibernate-commons-annotations-5.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/lib/hibernate-core-5.2.11.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/lib/javassist-3.20.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/lib/javax.annotation-api-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/lib/jboss-logging-3.3.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/lib/jta-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/lib/lucene-core-5.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/lib/lucene-queryparser-5.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/lib/mysql-connector-java-8.0.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/lib/xml-apis-1.3.03.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/out/production/hibernate-tutorial/com/amith/hibernate/demo/CreateCoursesDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/out/production/hibernate-tutorial/com/amith/hibernate/demo/CreateDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/out/production/hibernate-tutorial/com/amith/hibernate/demo/CreateInstructorDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/out/production/hibernate-tutorial/com/amith/hibernate/demo/DeleteCourseDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/out/production/hibernate-tutorial/com/amith/hibernate/demo/DeleteDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/out/production/hibernate-tutorial/com/amith/hibernate/demo/DeleteInstructorDetailDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/out/production/hibernate-tutorial/com/amith/hibernate/demo/GetInstructorCoursesDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/out/production/hibernate-tutorial/com/amith/hibernate/demo/GetInstructorDetailDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/out/production/hibernate-tutorial/com/amith/hibernate/demo/entity/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/out/production/hibernate-tutorial/com/amith/hibernate/demo/entity/Instructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/out/production/hibernate-tutorial/com/amith/hibernate/demo/entity/InstructorDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/out/production/hibernate-tutorial/com/amith/hibernate/demo/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/out/production/hibernate-tutorial/com/amith/jdbc/TestJdbc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/out/production/hibernate-tutorial/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/amith/hibernate/demo/CreateCoursesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/amith/hibernate/demo/CreateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/amith/hibernate/demo/CreateInstructorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/amith/hibernate/demo/DeleteCourseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/amith/hibernate/demo/DeleteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/amith/hibernate/demo/DeleteInstructorDetailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/amith/hibernate/demo/EagerLazyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/amith/hibernate/demo/FetchJoinDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/amith/hibernate/demo/GetInstructorCoursesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/amith/hibernate/demo/GetInstructorDetailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/amith/hibernate/demo/entity/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/amith/hibernate/demo/entity/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/amith/hibernate/demo/entity/InstructorDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/amith/hibernate/demo/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/amith/jdbc/TestJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/.idea/libraries/aspectjweaver_1_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/lib/aspectjweaver-1.9.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/lib/spring-aop-5.3.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/lib/spring-beans-5.3.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/lib/spring-context-5.3.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/lib/spring-core-5.3.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/lib/spring-expression-5.3.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/out/production/spring-demo-aop/com/amith/aopdemo/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/out/production/spring-demo-aop/com/amith/aopdemo/DemoConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/out/production/spring-demo-aop/com/amith/aopdemo/MainDemoApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/out/production/spring-demo-aop/com/amith/aopdemo/aspect/MyDemoLoggingAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/out/production/spring-demo-aop/com/amith/aopdemo/dao/AccountDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/out/production/spring-demo-aop/com/amith/aopdemo/dao/MembershipDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/spring-demo-aop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/src/com/amith/aopdemo/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/src/com/amith/aopdemo/DemoConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/src/com/amith/aopdemo/MainDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/src/com/amith/aopdemo/aspect/MyDemoLoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/src/com/amith/aopdemo/dao/AccountDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-aop-pointcut-declarations/src/com/amith/aopdemo/dao/MembershipDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/aspectjweaver_1_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/aspectjweaver-1.9.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-aop-5.3.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-beans-5.3.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-context-5.3.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-core-5.3.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-expression-5.3.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-demo-aop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/amith/aopdemo/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/amith/aopdemo/DemoConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/amith/aopdemo/MainDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/amith/aopdemo/aspect/MyDemoLoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/amith/aopdemo/dao/AccountDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/amith/aopdemo/dao/MembershipDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/.idea/jpa-buddy-datasource.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/.idea/libraries/jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/.idea/sonarlint-state.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/.idea/sonarlint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/src/main/java/com/amith/springdemo/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/src/main/java/com/amith/springdemo/dao/CustomerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/src/main/java/com/amith/springdemo/dao/CustomerDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/src/main/java/com/amith/springdemo/entity/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/src/main/java/com/amith/springdemo/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/src/main/java/com/amith/springdemo/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/src/main/java/com/amith/testdb/TestDbServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/src/main/webapp/WEB-INF/spring-mvc-crud-demo-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/src/main/webapp/WEB-INF/view/customer-form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/src/main/webapp/WEB-INF/view/list-customers.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/src/main/webapp/resources/css/add-customer-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/src/main/webapp/resources/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringAnnotate/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringAnnotate/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringAnnotate/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringAnnotate/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/out/production/hibernate-tutorial/com/amith/hibernate/demo/CreateStudentDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/out/production/hibernate-tutorial/com/amith/hibernate/demo/DeleteStudentDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/out/production/hibernate-tutorial/com/amith/hibernate/demo/PrimaryKeyDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/out/production/hibernate-tutorial/com/amith/hibernate/demo/QueryStudentDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/out/production/hibernate-tutorial/com/amith/hibernate/demo/ReadStudentDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/out/production/hibernate-tutorial/com/amith/hibernate/demo/UpdateStudentDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/out/production/hibernate-tutorial/com/amith/jdbc/TestJdbc.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/out/production/hibernate-tutorial/com/amith/jdbc/TestJdbc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/out/production/hibernate-tutorial/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/out/production/hibernate-tutorial/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/amith/hibernate/demo/CreateStudentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/amith/hibernate/demo/CreateDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/amith/hibernate/demo/DeleteStudentDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/amith/hibernate/demo/PrimaryKeyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/com/amith/hibernate/demo/DeleteDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/amith/hibernate/demo/QueryStudentDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/amith/hibernate/demo/ReadStudentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/amith/hibernate/demo/DeleteJavaPythonAndCCourseDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/amith/hibernate/demo/UpdateStudentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/amith/hibernate/demo/DeleteAmithStudentDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/amith/jdbc/TestJdbc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/amith/jdbc/TestJdbc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/hibernate.cfg.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26xPAfnLeJbNsaJDl8TEJBRSrGz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.46896553" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.." />
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.amith.aopdemo.MainDemoApp" />
+      <module name="spring-demo-aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amith.aopdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainDemoApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2582aed6-0bd0-43be-8cab-8a297e27b42b" name="Changes" comment="" />
+      <created>1648362121380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648362121380</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

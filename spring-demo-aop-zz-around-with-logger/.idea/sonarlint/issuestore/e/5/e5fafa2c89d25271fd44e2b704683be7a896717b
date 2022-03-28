@@ -1,0 +1,10 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(óĞÚ¾ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éí÷„ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒô·úÿÿÿÿ
+S
+java:S1128"=Remove this unused import 'com.amith.aopdemo.dao.AccountDAO'.(İ€×Ó
+[
+java:S1128"@Remove this unused import 'com.amith.aopdemo.dao.MembershipDAO'.(¡Øõ¢øÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ

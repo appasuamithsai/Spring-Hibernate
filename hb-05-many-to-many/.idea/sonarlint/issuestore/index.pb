@@ -1,0 +1,19 @@
+
+P
+ src/com/amith/jdbc/TestJdbc.java,2/0/2018c76d79e6c2dcc312f61030e20fba5fecb446
+i
+9src/com/amith/hibernate/demo/entity/InstructorDetail.java,7/a/7ad33608863761c0021ee603a10bc5925e4c1428
+_
+/src/com/amith/hibernate/demo/entity/Course.java,4/4/444cf637655b0905c015c9a33eceb96e4eefc9eb
+_
+/src/com/amith/hibernate/demo/entity/Review.java,5/b/5bad4ce940f012c16a9ceb5795e4f081a6214986
+`
+0src/com/amith/hibernate/demo/entity/Student.java,9/c/9c668aa35279935fdb833d4e271e95e3e40487f6
+l
+<src/com/amith/hibernate/demo/CreateCourseAndStudentDemo.java,1/e/1e29ce3d7d393189d11a3978abf040defb015a74
+g
+7src/com/amith/hibernate/demo/GetCourseForAmithDemo.java,2/7/2718481e2d403e8ae1b82852482ba8d216a3f9e4
+k
+;src/com/amith/hibernate/demo/CreateCourseAndReviewDemo.java,9/2/9229b25a345944aa9d1d12929f5c881e7cd1ceba
+E
+src/hibernate.cfg.xml,5/2/524fbabb9c34b348becff5425aeeaced8e15058f

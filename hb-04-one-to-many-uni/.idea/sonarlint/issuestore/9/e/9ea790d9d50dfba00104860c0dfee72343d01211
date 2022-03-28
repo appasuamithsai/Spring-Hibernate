@@ -1,0 +1,6 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÝû·úÿÿÿÿ
+]
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(Ëãýà8ºñ”éû/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ëãýà8ì¢”éû/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ð¸ùˆ8¾ñ”éû/
