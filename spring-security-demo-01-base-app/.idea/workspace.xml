@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b0bca54-ffbc-487e-bfac-ad5a52cfe313" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amith/springsecurity/demo/config/DemoAppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amith/springsecurity/demo/config/MySpringMvcDispatcherServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amith/springsecurity/demo/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/src/main/java/com/amith/springsecurity/demo/config/DemoAppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/src/main/java/com/amith/springsecurity/demo/config/MySpringMvcDispatcherServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/src/main/java/com/amith/springsecurity/demo/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/src/main/webapp/WEB-INF/view/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/src/test/java/com/luv2code/springsecurity/demo/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/target/classes/com/amith/springsecurity/demo/config/DemoAppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/target/classes/com/amith/springsecurity/demo/config/MySpringMvcDispatcherServletInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/target/classes/com/amith/springsecurity/demo/controller/DemoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/target/test-classes/com/luv2code/springsecurity/demo/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker-aop/.idea/sonarlint/issuestore/4/6/4600afbe431b39e94a4462fd5d3aba046e2b6a2f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker-aop/.idea/sonarlint/issuestore/a/6/a6f9ac9a4006d52105bdc0efd647d2ad5267bf6d" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker-aop/.idea/sonarlint/issuestore/a/6/a6f9ac9a4006d52105bdc0efd647d2ad5267bf6d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker-aop/.idea/sonarlint/issuestore/d/c/dc3ff4d5dd7db4d2025ac400178e9e8545ca92c7" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker-aop/.idea/sonarlint/issuestore/d/c/dc3ff4d5dd7db4d2025ac400178e9e8545ca92c7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker-aop/.idea/sonarlint/issuestore/f/6/f6d957124e53e8e8a9c0233c0b8cc47a86897e78" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker-aop/.idea/sonarlint/issuestore/f/6/f6d957124e53e8e8a9c0233c0b8cc47a86897e78" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker-aop/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker-aop/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/src/main/java/com/amith/springdemo/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/src/main/java/com/amith/springdemo/controller/CustomerController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="271OYUPr0Y5f0nfasIDTcsIpwTn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
+      <option name="adminPort" value="8005" />
+      <option name="contextPath" value="/spring-security-demo" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="envOptions">
+        <map />
+      </option>
+      <option name="passParentEnvironmentVariables" value="true" />
+      <option name="port" value="8080" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/9.0.59" />
+          <option name="number" value="0" />
+          <option name="path" value="$USER_HOME$/Downloads/apache-tomcat-9.0.59" />
+          <option name="version" value="9.0.59.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b0bca54-ffbc-487e-bfac-ad5a52cfe313" name="Changes" comment="" />
+      <created>1648484174187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648484174187</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

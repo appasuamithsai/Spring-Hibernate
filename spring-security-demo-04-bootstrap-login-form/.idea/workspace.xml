@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b0bca54-ffbc-487e-bfac-ad5a52cfe313" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-01-base-app/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-01-base-app/src/main/java/com/amith/springsecurity/demo/config/DemoAppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-01-base-app/src/main/java/com/amith/springsecurity/demo/config/MySpringMvcDispatcherServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-01-base-app/src/main/java/com/amith/springsecurity/demo/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-01-base-app/src/main/webapp/WEB-INF/view/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/.idea/sonarlint/issuestore/0/e/0ea3afa44e81a2d55df2adaa8457d491c398f0b9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/.idea/sonarlint/issuestore/3/5/3515886b447e3f6b8cf9e7743364e2dffcc4685c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/.idea/sonarlint/issuestore/5/9/5915cb55056c9fcd9122a7c1f3a43592a91d2898" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/.idea/sonarlint/issuestore/5/9/594e44b39488f269ffe5f60f093fe03f9c209cf9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/.idea/sonarlint/issuestore/6/c/6c69c66eb35d15bd99cd5f38ba2c50e0bc85feec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/.idea/sonarlint/issuestore/8/1/811f0b28cdbe2bd3002f596fda654f882f974db8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/src/main/java/com/amith/springsecurity/demo/config/DemoAppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/src/main/java/com/amith/springsecurity/demo/config/DemoSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/src/main/java/com/amith/springsecurity/demo/config/MySpringMvcDispatcherServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/src/main/java/com/amith/springsecurity/demo/config/SecurityWebApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/src/main/java/com/amith/springsecurity/demo/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/src/main/webapp/WEB-INF/view/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/src/test/java/com/luv2code/springsecurity/demo/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/target/classes/com/amith/springsecurity/demo/config/DemoAppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/target/classes/com/amith/springsecurity/demo/config/MySpringMvcDispatcherServletInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/target/classes/com/amith/springsecurity/demo/controller/DemoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-02-base-app/target/test-classes/com/luv2code/springsecurity/demo/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/.idea/sonarlint/issuestore/0/e/0ea3afa44e81a2d55df2adaa8457d491c398f0b9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/.idea/sonarlint/issuestore/3/5/3515886b447e3f6b8cf9e7743364e2dffcc4685c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/.idea/sonarlint/issuestore/5/9/5915cb55056c9fcd9122a7c1f3a43592a91d2898" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/.idea/sonarlint/issuestore/5/9/594e44b39488f269ffe5f60f093fe03f9c209cf9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/.idea/sonarlint/issuestore/6/c/6c69c66eb35d15bd99cd5f38ba2c50e0bc85feec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/.idea/sonarlint/issuestore/7/7/771875107dd5e972f438f130b9556a541d304010" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/.idea/sonarlint/issuestore/8/1/811f0b28cdbe2bd3002f596fda654f882f974db8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/.idea/sonarlint/issuestore/b/2/b23913abde65963c13be8aea4a278c64978eff8f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/src/main/java/com/amith/springsecurity/demo/config/DemoAppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/src/main/java/com/amith/springsecurity/demo/config/DemoSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/src/main/java/com/amith/springsecurity/demo/config/MySpringMvcDispatcherServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/src/main/java/com/amith/springsecurity/demo/config/SecurityWebApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/src/main/java/com/amith/springsecurity/demo/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/src/main/java/com/amith/springsecurity/demo/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/src/main/webapp/WEB-INF/view/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/src/main/webapp/WEB-INF/view/plain-login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/src/test/java/com/luv2code/springsecurity/demo/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/target/classes/com/amith/springsecurity/demo/config/DemoAppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/target/classes/com/amith/springsecurity/demo/config/DemoSecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/target/classes/com/amith/springsecurity/demo/config/MySpringMvcDispatcherServletInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/target/classes/com/amith/springsecurity/demo/config/SecurityWebApplicationInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/target/classes/com/amith/springsecurity/demo/controller/DemoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-03-customer-login-form/target/test-classes/com/luv2code/springsecurity/demo/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0ea3afa44e81a2d55df2adaa8457d491c398f0b9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/188f0b5c4b38182425e07b61142195ee277d0357" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/3515886b447e3f6b8cf9e7743364e2dffcc4685c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/5915cb55056c9fcd9122a7c1f3a43592a91d2898" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/771875107dd5e972f438f130b9556a541d304010" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/857e1dd0723072e311dc4b9a86724ce18115c49d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b23913abde65963c13be8aea4a278c64978eff8f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amith/springsecurity/demo/config/DemoAppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amith/springsecurity/demo/config/DemoSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amith/springsecurity/demo/config/MySpringMvcDispatcherServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amith/springsecurity/demo/config/SecurityWebApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amith/springsecurity/demo/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amith/springsecurity/demo/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/access-denied.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/fancy-login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/leaders.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/plain-login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/systems.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/luv2code/springsecurity/demo/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amith/springsecurity/demo/config/DemoAppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amith/springsecurity/demo/config/DemoSecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amith/springsecurity/demo/config/MySpringMvcDispatcherServletInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amith/springsecurity/demo/config/SecurityWebApplicationInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amith/springsecurity/demo/controller/DemoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amith/springsecurity/demo/controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/luv2code/springsecurity/demo/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/.idea/sonarlint/issuestore/5/9/594e44b39488f269ffe5f60f093fe03f9c209cf9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/.idea/sonarlint/issuestore/6/c/6c69c66eb35d15bd99cd5f38ba2c50e0bc85feec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/src/main/java/com/amith/springsecurity/demo/config/DemoAppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/src/main/java/com/amith/springsecurity/demo/config/DemoSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/src/main/java/com/amith/springsecurity/demo/config/MySpringMvcDispatcherServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/src/main/java/com/amith/springsecurity/demo/config/SecurityWebApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/src/main/java/com/amith/springsecurity/demo/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/src/main/java/com/amith/springsecurity/demo/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/src/main/resources/persistence-mysql.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/src/main/webapp/WEB-INF/view/access-denied.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/src/main/webapp/WEB-INF/view/fancy-login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/src/main/webapp/WEB-INF/view/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/src/main/webapp/WEB-INF/view/leaders.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/src/main/webapp/WEB-INF/view/plain-login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/src/main/webapp/WEB-INF/view/systems.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/src/test/java/com/luv2code/springsecurity/demo/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/target/classes/com/amith/springsecurity/demo/config/DemoAppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/target/classes/com/amith/springsecurity/demo/config/DemoSecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/target/classes/com/amith/springsecurity/demo/config/MySpringMvcDispatcherServletInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/target/classes/com/amith/springsecurity/demo/config/SecurityWebApplicationInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/target/classes/com/amith/springsecurity/demo/controller/DemoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/target/classes/com/amith/springsecurity/demo/controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security-demo-05-jdbc-plaintext/target/test-classes/com/luv2code/springsecurity/demo/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker-aop/.idea/sonarlint/issuestore/4/6/4600afbe431b39e94a4462fd5d3aba046e2b6a2f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker-aop/.idea/sonarlint/issuestore/a/6/a6f9ac9a4006d52105bdc0efd647d2ad5267bf6d" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker-aop/.idea/sonarlint/issuestore/a/6/a6f9ac9a4006d52105bdc0efd647d2ad5267bf6d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker-aop/.idea/sonarlint/issuestore/d/c/dc3ff4d5dd7db4d2025ac400178e9e8545ca92c7" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker-aop/.idea/sonarlint/issuestore/d/c/dc3ff4d5dd7db4d2025ac400178e9e8545ca92c7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker-aop/.idea/sonarlint/issuestore/f/6/f6d957124e53e8e8a9c0233c0b8cc47a86897e78" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker-aop/.idea/sonarlint/issuestore/f/6/f6d957124e53e8e8a9c0233c0b8cc47a86897e78" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker-aop/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker-aop/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/src/main/java/com/amith/springdemo/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/src/main/java/com/amith/springdemo/controller/CustomerController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="271OYUPr0Y5f0nfasIDTcsIpwTn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.." />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/view" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
+      <option name="adminPort" value="8005" />
+      <option name="contextPath" value="/spring-security-demo" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="envOptions" />
+      <option name="passParentEnvironmentVariables" value="true" />
+      <option name="port" value="8080" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/9.0.59" />
+          <option name="number" value="0" />
+          <option name="path" value="$USER_HOME$/Downloads/apache-tomcat-9.0.59" />
+          <option name="version" value="9.0.59.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b0bca54-ffbc-487e-bfac-ad5a52cfe313" name="Changes" comment="" />
+      <created>1648484174187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648484174187</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
