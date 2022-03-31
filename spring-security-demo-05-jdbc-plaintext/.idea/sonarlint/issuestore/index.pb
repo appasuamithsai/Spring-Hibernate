@@ -19,9 +19,9 @@ Ksrc/main/java/com/amith/springsecurity/demo/controller/LoginController.java,b/
 ,src/main/webapp/WEB-INF/view/plain-login.jsp,7/7/771875107dd5e972f438f130b9556a541d304010
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
-u
-Esrc/main/java/com/amith/springsecurity/demo/config/DemoAppConfig.java,8/1/811f0b28cdbe2bd3002f596fda654f882f974db8
 z
 Jsrc/main/java/com/amith/springsecurity/demo/config/DemoSecurityConfig.java,5/9/5915cb55056c9fcd9122a7c1f3a43592a91d2898
 _
 /src/main/resources/persistence-mysql.properties,0/b/0b8c141aa9e023f4a7c126d1ba761db1231a6ff1
+u
+Esrc/main/java/com/amith/springsecurity/demo/config/DemoAppConfig.java,8/1/811f0b28cdbe2bd3002f596fda654f882f974db8

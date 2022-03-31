@@ -11,8 +11,6 @@ U
 %src/java/com/amith/SetterDemoApp.java,8/a/8a14c9e93fadc18fefe2b2b4717c120515b7cc65
 I
 src/java/sport.properties,5/7/57c84864c5636fda0e1321d500f5c85c71e23d8b
-V
-&src/java/com/amith/HelloSpringApp.java,8/5/85969b71345d4ed70248478583cd775cbe9f0c15
 [
 +src/java/com/amith/HappyFortuneService.java,d/b/dbc9ea7365bbeeaf2d3c32eaac3b4aadd9df1656
 U
@@ -23,6 +21,10 @@ Y
 )src/java/beanScope-applicationContext.xml,3/9/397ab3aef8806dc4caa1c9350eb1e798aef781aa
 ]
 -src/java/beanLifeCycle-applicationContext.xml,3/e/3ea9cf9966573dc5226cb755c6388a825ee3a2a7
+Y
+)src/java/com/amith/BeanLifeCycleDemo.java,4/7/47590e29e2a2f81c59789ab30bd0d3106bc4b4dc
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 O
 src/java/applicationContext.xml,7/6/7634a35692170e52abcd43ce6305804733b4e73c
 K
@@ -31,9 +33,7 @@ U
 %src/java/com/amith/BeanScopeDemo.java,1/5/15d65689e0c91b2ac948eb6b50db51beb9e3e07c
 R
 "src/java/com/amith/TrackCoach.java,0/f/0f1271fff6756c53b768320929bf04121965920c
-Y
-)src/java/com/amith/BeanLifeCycleDemo.java,4/7/47590e29e2a2f81c59789ab30bd0d3106bc4b4dc
-7
-pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 M
 src/java/com/amith/Coach.java,f/b/fb0844bc5118f9d7734faf95c0e47654633d41be
+V
+&src/java/com/amith/HelloSpringApp.java,8/5/85969b71345d4ed70248478583cd775cbe9f0c15
