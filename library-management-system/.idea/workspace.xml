@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b5161f1-6436-47b1-b358-9818e4206a3d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../02-dev-tools-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-dev-tools-demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-dev-tools-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-dev-tools-demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-dev-tools-demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-dev-tools-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-dev-tools-demo/src/main/java/com/amith/spring/demo/mycoolapp/MycoolappApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-dev-tools-demo/src/main/java/com/amith/spring/demo/mycoolapp/rest/FunRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-dev-tools-demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-dev-tools-demo/src/test/java/com/amith/spring/demo/mycoolapp/MycoolappApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-command-line-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-command-line-demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-command-line-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-command-line-demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-command-line-demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-command-line-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-command-line-demo/src/main/java/com/amith/spring/demo/mycoolapp/MycoolappApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-command-line-demo/src/main/java/com/amith/spring/demo/mycoolapp/rest/FunRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-command-line-demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-command-line-demo/src/test/java/com/amith/spring/demo/mycoolapp/MycoolappApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-properties-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-properties-demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-properties-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-properties-demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-properties-demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-properties-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-properties-demo/src/main/java/com/amith/spring/demo/mycoolapp/MycoolappApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-properties-demo/src/main/java/com/amith/spring/demo/mycoolapp/rest/FunRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-properties-demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-properties-demo/src/test/java/com/amith/spring/demo/mycoolapp/MycoolappApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cruddemo/src/main/java/com/amith/springboot/cruddemo/dao/EmployeeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cruddemo/src/main/java/com/amith/springboot/cruddemo/dao/EmployeeDAOHibernateImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cruddemo/src/main/java/com/amith/springboot/cruddemo/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cruddemo/src/main/java/com/amith/springboot/cruddemo/rest/EmployeeRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cruddemo/src/main/java/com/amith/springboot/cruddemo/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cruddemo/src/main/java/com/amith/springboot/cruddemo/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa-cruddemo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa-cruddemo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa-cruddemo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa-cruddemo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa-cruddemo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa-cruddemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa-cruddemo/src/main/java/com/amith/springboot/cruddemo/CruddemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa-cruddemo/src/main/java/com/amith/springboot/cruddemo/dao/EmployeeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa-cruddemo/src/main/java/com/amith/springboot/cruddemo/dao/EmployeeDAOHibernateImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa-cruddemo/src/main/java/com/amith/springboot/cruddemo/dao/EmployeeDAOJpaImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa-cruddemo/src/main/java/com/amith/springboot/cruddemo/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa-cruddemo/src/main/java/com/amith/springboot/cruddemo/rest/EmployeeRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa-cruddemo/src/main/java/com/amith/springboot/cruddemo/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa-cruddemo/src/main/java/com/amith/springboot/cruddemo/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa-cruddemo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa-cruddemo/src/test/java/com/amith/springboot/cruddemo/CruddemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycoolapp/src/main/java/com/amith/spring/demo/mycoolapp/rest/FunRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__com_fasterxml_classmate_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__com_sun_activation_jakarta_activation_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__jakarta_inject_jakarta_inject_api_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__javax_servlet_servlet_api_3_0_alpha_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__javax_transaction_jta_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__javax_transaction_transaction_api_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_4_0_b180830_0359.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_core_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__org_glassfish_jaxb_txw2_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_17_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__org_hibernate_orm_hibernate_core_6_0_0_CR2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__org_javassist_javassist_3_25_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__org_springframework_spring_aop_5_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__org_springframework_spring_beans_5_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__org_springframework_spring_context_5_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__org_springframework_spring_core_5_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__org_springframework_spring_expression_5_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__org_springframework_spring_orm_5_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__org_springframework_spring_tx_5_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__org_springframework_spring_web_5_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/sonarlint/issuestore/8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/spring-crm-rest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/src/main/java/com/amith/springdemo/rest/CustomerErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/src/main/java/com/amith/springdemo/rest/CustomerNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/src/main/java/com/amith/springdemo/rest/CustomerRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/src/main/java/com/amith/springdemo/rest/CustomerRestExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/target/classes/com/amith/springdemo/config/DemoAppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/target/classes/com/amith/springdemo/config/MySpringMvcDispatcherServletInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/target/classes/com/amith/springdemo/dao/CustomerDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/target/classes/com/amith/springdemo/dao/CustomerDAOImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/target/classes/com/amith/springdemo/entity/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/target/classes/com/amith/springdemo/rest/CustomerRestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/target/classes/com/amith/springdemo/service/CustomerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/target/classes/com/amith/springdemo/service/CustomerServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-cruddemo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-cruddemo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-cruddemo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-cruddemo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-cruddemo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-cruddemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-cruddemo/src/main/java/com/amith/springboot/cruddemo/CruddemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-cruddemo/src/main/java/com/amith/springboot/cruddemo/dao/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-cruddemo/src/main/java/com/amith/springboot/cruddemo/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-cruddemo/src/main/java/com/amith/springboot/cruddemo/rest/EmployeeRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-cruddemo/src/main/java/com/amith/springboot/cruddemo/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-cruddemo/src/main/java/com/amith/springboot/cruddemo/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-cruddemo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-cruddemo/src/test/java/com/amith/springboot/cruddemo/CruddemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-rest-cruddemo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-rest-cruddemo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-rest-cruddemo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-rest-cruddemo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-rest-cruddemo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-rest-cruddemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-rest-cruddemo/src/main/java/com/amith/springboot/cruddemo/CruddemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-rest-cruddemo/src/main/java/com/amith/springboot/cruddemo/dao/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-rest-cruddemo/src/main/java/com/amith/springboot/cruddemo/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-rest-cruddemo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-rest-cruddemo/src/test/java/com/amith/springboot/cruddemo/CruddemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list-db/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list-db/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list-db/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list-db/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list-db/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list-db/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list-db/src/main/java/com/amith/springboot/thymeleafdemo/ThymeleafdemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list-db/src/main/java/com/amith/springboot/thymeleafdemo/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list-db/src/main/java/com/amith/springboot/thymeleafdemo/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list-db/src/main/java/com/amith/springboot/thymeleafdemo/dao/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list-db/src/main/java/com/amith/springboot/thymeleafdemo/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list-db/src/main/java/com/amith/springboot/thymeleafdemo/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list-db/src/main/java/com/amith/springboot/thymeleafdemo/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list-db/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list-db/src/main/resources/static/css/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list-db/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list-db/src/main/resources/templates/employees/employee-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list-db/src/main/resources/templates/helloworld.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list-db/src/main/resources/templates/list-employees.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list-db/src/test/java/com/amith/springboot/thymeleafdemo/ThymeleafdemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list/src/main/java/com/amith/springboot/thymeleafdemo/ThymeleafdemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list/src/main/java/com/amith/springboot/thymeleafdemo/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list/src/main/java/com/amith/springboot/thymeleafdemo/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list/src/main/java/com/amith/springboot/thymeleafdemo/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list/src/main/resources/static/css/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list/src/main/resources/templates/helloworld.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list/src/main/resources/templates/list-employees.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo-employees-list/src/test/java/com/amith/springboot/thymeleafdemo/ThymeleafdemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo/src/main/java/com/amith/springboot/thymeleafdemo/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo/src/main/resources/static/css/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleafdemo/src/main/resources/templates/helloworld.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVCDemo/.idea/SpringMVCDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVCDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVCDemo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVCDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVCDemo/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVCDemo/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVCDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVCDemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVCDemo/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVCDemo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-crm-rest-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-crm-rest-demo/sql-scripts/01-create-user.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-crm-rest-demo/sql-scripts/02-customer-tracker.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-crm-rest-demo/src/main/java/com/luv2code/springdemo/config/DemoAppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/src/main/java/com/amith/springdemo/config/DemoAppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-crm-rest-demo/src/main/java/com/luv2code/springdemo/config/MySpringMvcDispatcherServletInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/src/main/java/com/amith/springdemo/config/MySpringMvcDispatcherServletInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-crm-rest-demo/src/main/java/com/luv2code/springdemo/dao/CustomerDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/src/main/java/com/amith/springdemo/dao/CustomerDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-crm-rest-demo/src/main/java/com/luv2code/springdemo/dao/CustomerDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/src/main/java/com/amith/springdemo/dao/CustomerDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-crm-rest-demo/src/main/java/com/luv2code/springdemo/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/src/main/java/com/amith/springdemo/entity/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-crm-rest-demo/src/main/java/com/luv2code/springdemo/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/src/main/java/com/amith/springdemo/service/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-crm-rest-demo/src/main/java/com/luv2code/springdemo/service/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/src/main/java/com/amith/springdemo/service/CustomerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-crm-rest-demo/src/main/resources/persistence-mysql.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/src/main/resources/persistence-mysql.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-crm-rest-demo/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-crm-rest-demo/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-rest-demo/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-rest-demo/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-rest-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-rest-demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvcdemo1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvcdemo1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvcdemo1/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvcdemo1/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvcflowchart" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvcflowchart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="27Ek0pt75RDdey2tLKxg0PAEskN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.." />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ThymeleafdemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.amith.springboot.thymeleafdemo.ThymeleafdemoApplication" />
+      <module name="thymeleafdemo-employees-list" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amith.springboot.thymeleafdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThymeleafdemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b5161f1-6436-47b1-b358-9818e4206a3d" name="Changes" comment="" />
+      <created>1648892414767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648892414767</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
